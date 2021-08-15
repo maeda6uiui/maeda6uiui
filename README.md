@@ -1,6 +1,6 @@
 # 概要
 
-時間があるときに適当なプログラムを組んだりします。
+気が向いたときに適当なプログラムを組んだりします。
 
 文学作品などの翻訳にも挑戦しています。
 https://github.com/maeda6uiui-documentation
@@ -10,5 +10,5 @@ https://github.com/maeda6uiui-documentation
 ### メールアドレス
 
 `maeda6uiui●gmail.com`
-(●は@に置き換えてください。)
+(●は@に置き換えてください)
 
