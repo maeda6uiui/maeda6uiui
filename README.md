@@ -22,3 +22,12 @@
 更新頻度は低いですが、一応Twitterもやっています。
 DMは開放していませんが、メンションをつけてツイートしていただければ、気が向いたときに反応するかもしれません。
 
+## Misskey
+
+[@maeda6uiui@misskey-dabansky.com](https://misskey-dabansky.com/@maeda6uiui)
+
+Twitterよりこちらの方が更新頻度が高いです。
+
+Misskey Dabanskyは今のところ招待制になっていますが、閲覧するだけなら誰でもできます。
+管理人にコメントしたりリアクションしたりしたいという物好きな方は、[Misskey.io](https://misskey.io/) (Misskey)や[mstdn.jp](https://mstdn.jp/home) (Mastodon)といった有名なサーバーにアカウントを作成することをおすすめします。
+
