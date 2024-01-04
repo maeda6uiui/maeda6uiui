@@ -19,4 +19,3 @@ maeda6uiui●gmail.com (Replace ● with @)
 ### Misskey
 
 [@maeda6uiui@misskey-dabansky.com](https://misskey-dabansky.com/@maeda6uiui)
-
