@@ -16,13 +16,7 @@ maeda6uiui●gmail.com (Replace ● with @)
 
 [@maeda6uiui](https://twitter.com/maeda6uiui)
 
-I rarely post on X, I only leave a like to interesting posts, and DMs are not open.
-But if you mention me, I would respond to it when I'm willing.
-
 ### Misskey
 
 [@maeda6uiui@misskey-dabansky.com](https://misskey-dabansky.com/@maeda6uiui)
-
-Above is a Misskey server maintained by me and dedicated exclusively to me.
-You could visit and see my notes there without any account, but if you somehow want to add a comment or a reaction to my notes, then consider to participate in a popular server such as [Misskey.io](https://misskey.io/) (Misskey) and [mstdn.jp](https://mstdn.jp/home) (Mastodon).
 
