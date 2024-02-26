@@ -1,8 +1,6 @@
 # Overview
 
-Thank you for finding me in the profound crevasse of the Internet!
-I don't specialize in anything, I just take a hand in what seems interesting to me.
-But if you allow me to declare something, I'll think of myself as a full-stack engineer.
+Thank you for finding me in the deep crevasse of the Internet!
 
 # Contact
 
